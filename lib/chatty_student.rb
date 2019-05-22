@@ -9,7 +9,7 @@ class ChattyStudent < Student
   
   def raise_hand
     10.times do 
-      prints super
+      print super
     end 
   end 
     
